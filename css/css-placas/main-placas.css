@@ -1,0 +1,258 @@
+.barra-fixa {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #006eff;
+  z-index: 3;
+}
+
+.logo {
+  margin-left: 3rem;
+  width: 12.6rem;
+  transition: 0.5s;
+}
+
+.elementos-direita {
+  position: fixed;
+  top: 20;
+  right: 20;
+}
+
+.estudo {
+  margin-left: 52.5rem;
+  margin-bottom: 0.8rem;
+  margin-right: 1.5rem;
+  width: 2.25rem;
+  transition: 0.5s;
+}
+
+.logo-game {
+  width: 2.5rem;
+  margin-bottom: 0.8rem;
+  margin-right: 1.5rem;
+  transition: 0.5s;
+}
+
+.usuario {
+  margin-bottom: 0.8rem;
+  margin-right: 1.5rem;
+  width: 2.25rem;
+  transition: 0.5s;
+}
+
+.sobre-nos {
+  margin-bottom: 0.8rem;
+  margin-right: 1.5rem;
+  width: 2rem;
+  transition: 0.5s;
+}
+
+.barra-lateral {
+  margin-top: 4rem;
+  position: fixed;
+  left: 0;
+  width: 16rem;
+  height: 100%;
+  background-color: #223691;
+  padding: 0.75rem;
+  padding-top: 1rem;
+  z-index: 2;
+  overflow: auto;
+}
+
+.Topografia {
+  font-weight: 600;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  transition: 0.5s;
+  opacity: 75%;
+}
+
+.Geomorfologia {
+  font-weight: 600;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  transition: 0.5s;
+  opacity: 75%;
+}
+
+.Relevos {
+  font-weight: 600;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  transition: 0.5s;
+  opacity: 75%;
+}
+
+.placas-tectonicas {
+  font-weight: 600;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  transition: 0.5s;
+  color: var(--white);
+  cursor: pointer;
+}
+
+.videoaulas {
+  font-weight: 600;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  transition: 0.5s;
+  opacity: 75%;
+}
+
+.textos-1 {
+  display: flex;
+  margin-bottom: 3rem;
+}
+
+.textos-1 p {
+  margin-left: 35rem;
+  width: 20rem;
+}
+
+.textos-1 img {
+  width: 22.5rem;
+  height: 24rem;
+}
+
+.titulo-1 {
+  width: 56.75rem;
+}
+
+.oque-e h2 {
+  margin-left: 44rem;
+  margin-bottom: 0.5rem;
+}
+
+.tipos-de-placas h2 {
+  margin-bottom: 2rem;
+  width: 25rem;
+}
+
+.textos-2 {
+  display: flex;
+  margin-left: 35rem;
+}
+
+.textos-2 img {
+  height: 20rem;
+  width: 20rem;
+  margin-right: 2rem;
+}
+
+.titulo-2 {
+  width: 56.75rem;
+}
+
+.images-2 {
+  width: 20rem;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+}
+
+.textos-3 {
+  margin-top: 1.25rem;
+  margin-bottom: 4rem;
+  display: flex;
+}
+
+.textos-3 p {
+  margin-left: 36rem;
+  width: 20rem;
+}
+
+.textos-3 img {
+  width: 22.5rem;
+}
+
+.titulo-3 {
+  margin-right: 1rem;
+  width: 56.75rem;
+}
+
+.limites-das-placas h2 {
+  width: 30rem;
+  margin-left: 35rem;
+  margin-bottom: 0.8rem;
+}
+
+.textos-4 {
+  display: flex;
+}
+
+.textos-4 p {
+  width: 20rem;
+}
+
+.textos-4 img {
+  width: 22.5rem;
+  height: 22.5rem;
+  margin-left: 33rem;
+  margin-bottom: 3.8rem;
+  margin-right: 3.2rem;
+}
+
+.titulo-4 {
+  width: 20rem;
+  margin-right: 4rem;
+}
+
+
+.limites-divergentes h2 {
+  margin-bottom: 0.8rem;
+}
+
+.textos-5 {
+  display: flex;
+}
+
+.textos-5 p {
+  margin-left: 34rem;
+  width: 20rem;
+}
+
+.textos-5 img {
+  width: 22.5rem;
+  height: 22.5rem;
+  margin-left: 0.8rem;
+  margin-bottom: 5rem;
+  margin-right: 3.75rem;
+}
+
+.titulo-5 {
+  width: 56.75rem;
+}
+
+.limites-convergentes h2 {
+  width: 25rem;
+  margin-left: 34rem;
+  margin-bottom: 0.8rem;
+}
+
+.limites-transformantes h2 {
+  width: 25rem;
+  margin-bottom: 2rem;
+}
+
+.textos-6 {
+  display: flex;
+  margin-left: 35rem;
+}
+
+.textos-6 img {
+  height: 20rem;
+  width: 20rem;
+  margin-right: 2rem;
+}
+
+.titulo-6 {
+  width: 56.75rem;
+}
+
+.images-6 {
+  width: 20rem;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+}
